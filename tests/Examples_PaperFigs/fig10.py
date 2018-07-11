@@ -1,4 +1,5 @@
-# try the code from Figure 10 of the paper
+# try the code from Figure 10 of the TR
+# this is what is in the TR
 
 from trajopt.solver.slsqp import SLSQPSolver
 from trajopt.spacetime.spacetime import Spacetime
